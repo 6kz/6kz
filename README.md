@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an institutional website and other small projetos<br>👯 I’m looking to collaborate on any project<br>🤝 I’m looking for help with any project<br>🌱 I’m currently learning PHP, SQL and JS ( & more but not full time)<br>💬 Ask me about anything<br>⚡ I love/hate programming
+🔭 I’m currently working on an institutional website and other small projetos<br>👯 I’m looking to collaborate on any project<br>🤝 I’m looking for help with any project<br>🌱 I’m currently learning PHP, SQL and JS ( & more but not full time)<br>💬 Ask me about anything<br>⚡ I have a love-hate relationship with programming
 
 
 ## 🌐 Socials:
