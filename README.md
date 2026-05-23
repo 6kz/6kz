@@ -49,5 +49,5 @@ If you find my projects helpful and want to show some support, feel free to drop
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/tomocraft)
 
 <p align="right">
-  <img src="https://img.shields.io/github/visitors/6kz/6kz?color=0077B5&label=Profile%20Views&style=flat-square" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=6kz&color=0077b5&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
 </p>
