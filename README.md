@@ -42,8 +42,10 @@ With over 4 years of experience as a Junior Developer, I've transitioned from bu
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasmaio/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://linkt.ree/tomasmaio)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/tomasmaio/) 
+[![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/tomasmaio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tomasmatos.me)
+
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=6kz&color=0077b5&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
