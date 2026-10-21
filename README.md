@@ -46,5 +46,6 @@ With over 4 years of experience as a Junior Developer, I've transitioned from bu
 [![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/tomasmaio)
 
 <p align="right">
-[![Profile views](https://profile-counter-eta.vercel.app/api/views?id=6k_z)]
+  
+[![Profile views](https://profile-counter-eta.vercel.app/api/views?id=6k_z)](https://linktr.ee/tomasmaio)
 </p>
