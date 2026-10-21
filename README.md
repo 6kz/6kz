@@ -44,9 +44,7 @@ With over 4 years of experience as a Junior Developer, I've transitioned from bu
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/tomasmaio/) 
 [![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/tomasmaio)
-[![Portfolio](https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tomasmatos.me)
-
 
 <p align="right">
-[Profile views](https://profile-counter-eta.vercel.app/api/views?id=6k_z)
+[![Profile views](https://profile-counter-eta.vercel.app/api/views?id=6k_z)]
 </p>
