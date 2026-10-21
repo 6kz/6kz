@@ -48,5 +48,5 @@ With over 4 years of experience as a Junior Developer, I've transitioned from bu
 
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=6kz&label=PROFILE+VIEWS&color=0077b5&style=flat-square" alt="Profile views">
+[Profile views](https://profile-counter-eta.vercel.app/api/views?id=6k_z)
 </p>
