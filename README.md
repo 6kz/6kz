@@ -48,5 +48,5 @@ With over 4 years of experience as a Junior Developer, I've transitioned from bu
 
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=6kz&color=0077b5&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+![Profile Views](https://komarev.com/ghpvc/?username=6kz&color=0077b5&style=flat-square&label=PROFILE%20VIEWS)
 </p>
